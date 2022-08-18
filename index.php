@@ -1,1 +1,1 @@
-<?php include_once("privacynotices.html"); ?>
+<?php include_once("mydomain.html"); ?>
